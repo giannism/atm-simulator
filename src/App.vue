@@ -1,10 +1,7 @@
 <template>
   <v-app>
     <v-content >
-      <v-container fluid>
         <Atm/>
-      </v-container>
-
     </v-content>
   </v-app>
 </template>
